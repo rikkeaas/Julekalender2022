@@ -29,3 +29,5 @@ for l in ls2:
     stemmer[v] = stemmer[v] + minW
 
 print(stemmer)
+
+print(hex(15))
