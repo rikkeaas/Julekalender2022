@@ -1,0 +1,8 @@
+Maskin A, temperatur 101C, vann 1078L, kullsyre 486L
+Maskin B, temperatur 90C, vann 1018L, kullsyre 358L
+Maskin C, temperatur 101C, vann 904L, kullsyre 466L
+Maskin B, temperatur 100C, vann 519L, kullsyre 485L
+Maskin A, temperatur 104C, vann 947L, kullsyre 337L
+Maskin C, temperatur 97C, vann 1649L, kullsyre 451L
+Maskin B, temperatur 98C, vann 1203L, kullsyre 485L
+Maskin D, temperatur 104C, vann 490L, kullsyre 801L
